@@ -1,7 +1,7 @@
 # Matrix-Calculator
  The program adds two 3x3 matrices and prints the result. 
  The program prompts the user to enter data for 2 matrices 
- Then displays those 2 matrices and the sum matrix. 
+ Then displays those 2 matrices and the sum matrix using **3d Arrays**. 
  Example Output:
  
  
